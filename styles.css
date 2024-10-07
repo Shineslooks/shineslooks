@@ -1,0 +1,116 @@
+/* Mengatur margin dan padding menjadi 0 untuk seluruh elemen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif; /* Menggunakan font sans-serif */
+    background-color: #1363DE; /* Latar belakang putih */
+    color: black; /* Teks hitam */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Mengatur container agar berukuran responsif dan berpusat */
+.container {
+    max-width: 800px;
+    padding: 20px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+/* Mengatur ukuran logo */
+.logo {
+    max-width: 100px; /* Sesuaikan ukuran logo */
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Mengatur teks deskripsi */
+main p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+/* Bagian link sosial media */
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: blue; /* Warna biru untuk link */
+    font-weight: bold;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+/* Mengatur margin dan padding menjadi 0 untuk seluruh elemen */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif; /* Menggunakan font sans-serif */
+    background-color: white; /* Latar belakang putih */
+    color: black; /* Teks hitam */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Mengatur container agar berukuran responsif dan berpusat */
+.container {
+    max-width: 800px;
+    padding: 20px;
+    text-align: left;
+    line-height: 1.8;
+}
+
+/* Mengatur ukuran logo */
+.logo {
+    max-width: 100px; /* Sesuaikan ukuran logo */
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Mengatur teks deskripsi */
+main p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+/* Bagian link sosial media */
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: blue; /* Warna biru untuk link */
+    font-weight: bold;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
